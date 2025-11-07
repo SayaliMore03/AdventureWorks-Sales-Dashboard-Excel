@@ -52,6 +52,10 @@ This project was built from the ground up, following the complete data analysis 
 - This data model is the core of the project, enabling scalable analysis across all 7 tables without a single VLOOKUP.  
 - Created a **Calendar table** to support all time-intelligence calculations.
 
+  <p align="center">
+  <img src="Assets/Screenshot%20(249).png" alt="My Data Analyst Workflow" width="55%">
+</p>
+
 ---
 
 ### 🔹 Analyze (DAX)
