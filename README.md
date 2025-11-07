@@ -34,6 +34,9 @@ This enables stakeholders to effectively monitor company-wide sales, analyze pro
 
 ## 🛠️ My Data Analyst Workflow
 This project was built from the ground up, following the complete data analysis workflow:
+<p align="center">
+  <img src="Assets/Screenshot%20(258).png" alt="My Data Analyst Workflow" width="55%">
+</p>
 
 ---
 
